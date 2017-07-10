@@ -13,7 +13,7 @@ namespace Lifted
         {
             InitializeComponent();
 
-            MainPage = new Lifted.MainPage();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
